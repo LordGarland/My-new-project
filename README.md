@@ -1,4 +1,5 @@
 ##Summary
+
 BugBuddy is an AI coding assistant designed for middle school students (ages 11–14). Instead of giving away the right answer, it uses Socratic questioning and age-appropriate hints to help young beginners find and fix bugs on their own, fostering critical thinking.
 
 ## Background
